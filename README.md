@@ -1,2 +1,2 @@
 # MotMot
- Group Project for Software Development Module
+Group Project for the Software Development Module
